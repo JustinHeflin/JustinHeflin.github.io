@@ -26,7 +26,7 @@ Selected Student Comments:
 - "The professor uses a lot of examples when teaching, it makes the information become more of a reality and engaging rather than just learning it."
 - "I believe that Professor Heflin was extremely helpful and creative in the way he presented the material. He made the class very comfortable and fostered a healthy learning environment."
 - "Very interactive, he learned our names and included us in examples. Never made me feel bad about having a question."
-- "I think how personable and relatable the instructor made the course really helped me learn. The instructor made me want to attend class more as it was engaging and intersting to learn about the topics."
+- "I think how personable and relatable the instructor made the course really helped me learn. The instructor made me want to attend class more as it was engaging and interesting to learn about the topics."
 
 ## As Teaching Asssistant:
 
