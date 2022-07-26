@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to the site! I am currently a fourth year Phd economics student at West Virginia University, and my focus is microeconomics and public policy. I enjoy teaching, having experience not only from WVU but also Fairmont State University where I earned my bachelor's degree as well as my MBA. If you're interested, you can find a copy of my CV [here]
+Hello, and welcome to the site! I am currently a fourth year Phd economics student at West Virginia University, and my focus is microeconomics and public policy. I enjoy teaching, having experience not only from WVU but also Fairmont State University where I earned my bachelor's degree as well as my MBA.
 
 Job Market Paper: Are Red Flag Laws a green light to save lives?
 ======
