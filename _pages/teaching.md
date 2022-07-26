@@ -17,9 +17,6 @@ author_profile: true
 
 - BSBA 2211: Principles of Macroeconomics -- Fall 2019 (online, asynchronous)
 
-Evaluations:
-(from James's website) -[Summary](/files/Teaching_Effectivness.pdf)
-(from James's website) -[All Evaluations](/files/Evals_Effectiveness.pdf)
 
 Selected Student Comments:
 
