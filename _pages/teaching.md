@@ -19,7 +19,7 @@ author_profile: true
 
 
 Evaluations:
-- [Summary](/files/Teaching_Effectiveness.pdf)
+- [Summary](/files/Heflin_Teaching_Effectiveness.pdf)
 - [All Evaluations](/files/Heflin_Teaching_Evaluations.pdf)
 
 
