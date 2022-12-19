@@ -18,6 +18,11 @@ author_profile: true
 - BSBA 2211: Principles of Macroeconomics -- Fall 2019 (online, asynchronous)
 
 
+Evaluations:
+- [Summary](/files/Teaching_Effectiveness.pdf)
+- [All Evaluations](/files/Evals_Effectiveness.pdf)
+
+
 Selected Student Comments:
 - "Overall I think Justin is a wonderful professor and goes above and beyond for his students. He was always very helpful and made sure we understood the material"
 - "Justin is a great professor. The content of the class could have been difficult, but he explained things in real life examples and in ways that were easy to understand. The activities used (i.e. candy for market structures, ball activity representing restaurant productivity, etc) were helpful for hands on learners. I really enjoyed how simple this class was in terms of no crazy powerpoints or things like that, it was just the professor and the whiteboard which was refreshing. Overall I have a very positive view on economics because of this class."
