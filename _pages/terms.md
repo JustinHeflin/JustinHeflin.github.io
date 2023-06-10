@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Econometrics In-class Labs"
+title: "terms"
 modified: 2016-06-06
 ---
 
