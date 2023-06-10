@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Econometrics In-class Labs"
 modified: 2016-06-06
 ---
 
