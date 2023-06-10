@@ -8,7 +8,7 @@ author_profile: true
 ## Instructor of Record
 
 - Econ 425: Introductory Econometrics -- Spring 2023
-  * Collection of [in-class labs](https://github.com/JustinHeflin/EconometricsLabs) in R for introductory econometrics class.
+  * Collection of [in-class labs](https://github.com/JustinHeflin/EconometricsLabs) to help students get hands-on experience coding with R.
 
 - Econ 200: Introductory Economics -- Fall 2021, Spring 2022, Fall 2022
 
