@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Econometrics In-class Labs"
+permalink: /teaching/
 author_profile: true
 ---
 1. [Intro to R Day 1](/files/Lab_01.pdf) 
