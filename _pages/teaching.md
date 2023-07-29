@@ -7,12 +7,22 @@ author_profile: true
 
 ## Instructor of Record
 
+### University of Kentucky
+- Eco 201: Principles of Microeconomics -- Fall 2023 (large section)
+  
+- Eco 379: Law & Economics -- Fall 2023
+  
+- Eco 392: Introductory Econometrics -- Fall 2023
+
+### West Virginia University
 - Econ 425: Introductory Econometrics -- Spring 2023
   * Collection of [in-class labs](MetricsLabs.md) to help students get hands-on experience coding with R.
 
 - Econ 200: Introductory Economics -- Fall 2021, Spring 2022, Fall 2022
 
-- BSBA 2200: Economics for Non-Business Majors (Surveys) -- Fall 2018, Spring 2019, Summer 2019 (online, asynchronous), Fall 2019 (online, asynchronous), Spring 2020 (online, asynchronous), Summer 2020 (online, asynchronous)
+### Fairmont State University
+
+- BSBA 2200: Economics for Non-Business Majors -- Fall 2018, Spring 2019, Summer 2019 (online, asynchronous), Fall 2019 (online, asynchronous), Spring 2020 (online, asynchronous), Summer 2020 (online, asynchronous)
 
 - BSBA 2212: Principles of Microeconomics -- Fall 2018, Spring 2019, Fall 2019, Spring 2020 (one section F2F, one section online asynchronous)
 
