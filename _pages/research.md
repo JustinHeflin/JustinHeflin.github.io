@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
--["Are Red Flag Laws a green light to save lives?"](/files/Red_Flag_Law_Paper_JMP.pdf)(Job Market Paper)
+-["Are Red Flag Laws a green light to save lives?"](/files/Red_Flag_Law_JMP.pdf)(Job Market Paper)
 
 -“The Impact of Execution Moratoriums on Homicide Rates”
 
