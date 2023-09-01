@@ -10,4 +10,4 @@ author_profile: true
 
 -[“The Impact of Execution Moratoriums on Homicide Rates”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4525716)
 
--["The Impact of California’s Zero Dollar Bail Policy On Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559338)
+-["The Impact of California’s Zero Dollar Bail Policy On Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559338)(with Bryan McCannon)
