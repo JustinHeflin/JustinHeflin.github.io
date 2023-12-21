@@ -8,11 +8,11 @@ author_profile: true
 ## Instructor of Record
 
 ### University of Kentucky
-- Eco 201: Principles of Microeconomics -- Fall 2023 (large section)
+- Eco 201: Principles of Microeconomics -- Fall 2023 (large section), Spring 2024 (one large section, one Honors section)
   
 - Eco 379: Law & Economics -- Fall 2023
   
-- Eco 392: Introductory Econometrics -- Fall 2023
+- Eco 392: Introductory Econometrics -- Fall 2023, Spring 2024
 
 ### West Virginia University
 - Econ 425: Introductory Econometrics -- Spring 2023
