@@ -10,7 +10,7 @@ author_profile: true
 ### University of Kentucky
 - Eco 201: Principles of Microeconomics -- Fall 2023 (large section), Spring 2024 (one large section, one Honors section), Fall 2024
   
-- Eco 379: Law & Economics -- Fall 2023, Fall 2023
+- Eco 379: Law & Economics -- Fall 2023, Fall 2024
   
 - Eco 392: Introductory Econometrics -- Fall 2023, Spring 2024, Fall 2024
 
