@@ -16,6 +16,6 @@ author_profile: true
 
 
 ## Working Papers
--["Petitions, Prevention, and Public Health: Red Flag Laws and Mental Health Outcomes"]
+-"Petitions, Prevention, and Public Health: Red Flag Laws and Mental Health Outcomes"
 
--["The Impact of Illinois SAFE-T Act on Crime in Chicago"]
+-"The Impact of Illinois SAFE-T Act on Crime in Chicago"
